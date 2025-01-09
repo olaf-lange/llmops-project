@@ -9,6 +9,7 @@ promptflow-evals>=0.3.0
 azure-identity==1.16.0
 python-dotenv>=1.0.0
 azureml-mlflow>=1.53.0
+marshmallow==3.23.2
 keyrings.alt
 python-dotenv
 
