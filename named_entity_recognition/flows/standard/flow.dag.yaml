@@ -32,6 +32,6 @@ nodes:
     type: code
     path: cleansing.py
   inputs:
-    entities_str: ${NER_LLM.output}
+    entities_str: ${NER_LLM_e.output}
 environment:
   python_requirements_txt: requirements.txt
