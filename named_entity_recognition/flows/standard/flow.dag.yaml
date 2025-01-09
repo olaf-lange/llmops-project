@@ -12,7 +12,7 @@ outputs:
     type: string
     reference: ${cleansing.output}
 nodes:
-- name: NER_LLM
+- name: NER_LLM_e
   type: llm
   source:
     type: code
